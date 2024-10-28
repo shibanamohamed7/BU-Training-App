@@ -1,0 +1,63 @@
+.aboutContent {
+    position: relative;
+    padding: 2rem 3rem;
+    max-width: 900px;
+    margin: auto;
+    z-index: 100;
+    border-radius: 50px;
+    background: linear-gradient(145deg, #ffffff, #e6e6e6);
+    box-shadow: 20px 20px 60px #d9d9d9, inset -20px -20px 60px #ffffff;
+}
+
+.flubber .flubberAnim {
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100vw;
+    right: 0;
+    position: absolute;
+    top: -70px;
+}
+
+@media (max-width: 920px) {
+    .flubber .flubberAnim {
+        width: 200vw;
+        top: 28vw;
+    }
+
+    .flubberAnim {
+        left: 50px;
+    }
+}
+
+.flubberAnim .wave {
+    position: absolute;
+    width: 100vw;
+    height: 60vw;
+    border-radius: 50%;
+    opacity: .4;
+}
+
+.flubberAnim .wave.-one {
+    animation: rotate 20s infinite linear;
+    border: 4px solid #FFCB1F;
+}
+
+.flubberAnim .wave.-two {
+    animation: rotate 50s infinite linear;
+    border: 4px solid #FFCB1F;
+}
+
+.flubberAnim .wave.-three {
+    animation: rotate 30s infinite linear;
+    border: 4px solid #1976d2;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}

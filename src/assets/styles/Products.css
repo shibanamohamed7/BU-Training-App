@@ -1,0 +1,28 @@
+.userflowContainer, .beamerContainer{
+  padding: 2rem 0;
+}
+
+.productHeader {
+  margin: 0;
+  text-align: center;
+  padding-top: 6rem;
+  padding-bottom: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.productTitle {
+  font-size: 1.8rem;
+  font-weight: 500;
+  padding-left: 0.8rem;
+  font-family: system-ui;
+}
+
+.productCards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+  justify-content: center;
+  align-items: flex-start;
+}

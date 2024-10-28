@@ -1,0 +1,142 @@
+{
+  "beamer": [
+    {
+      "id": "1",
+      "title": "Changelog",
+      "description": "Announce your newest products, latest updates, bug fixes, and company news.",
+      "imageValue": "changelogImage",
+      "Doclink": "https://www.getbeamer.com/changelog",
+      "Tryoutlink": "https://app.getbeamer.com/home",
+      "subProducts": [
+        {
+          "id": "1-1",
+          "title": "Push Notification",
+          "description": "Reach your users wherever they are. Send notifications to your users, even if they’re not online or logged in.",
+          "Doclink": "https://www.getbeamer.com/push-notifications",
+          "Tryoutlink": "https://app.getbeamer.com/home"
+        },
+        {
+          "id": "1-2",
+          "title": "In-app Notification",
+          "description": "Boost updates that matter with engaging in-app notifications like popups, top bars, snippets and more.",
+          "Doclink": "https://www.getbeamer.com/in-app-notification-center",
+          "Tryoutlink": "https://app.getbeamer.com/home"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "NPS",
+      "description": "Measure, track, and improve customer happiness with NPS.",
+      "imageValue": "pushnotificationImage",
+      "Doclink": "https://www.getbeamer.com/nps",
+      "Tryoutlink": "https://app.getbeamer.com/nps",
+      "subProducts": [
+        {
+          "id": "2-1",
+          "title": "In-app surveys",
+          "description": "Send surveys in-app while your users are in your app or on your website for higher response rates.",
+          "Doclink": "https://www.getbeamer.com/nps",
+          "Tryoutlink": "https://app.getbeamer.com/nps"
+        },
+        {
+          "id": "2-2",
+          "title": "Email & link surveys",
+          "description": "Send our surveys to your users via email and link so they can answer when they’re ready.",
+          "Doclink": "https://www.getbeamer.com/nps",
+          "Tryoutlink": "https://app.getbeamer.com/nps"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Feedback",
+      "description": "Hear directly from your customers, prioritize their ideas, and share continuous product updates.",
+      "imageValue": "inappnotificationImage",
+      "Doclink": "https://www.getbeamer.com/feedback",
+      "Tryoutlink": "https://app.getbeamer.com/feedback",
+      "subProducts": [
+        {
+          "id": "3-1",
+          "title": "Roadmap",
+          "description": "Build a public or private roadmap based on real user feedback to demonstrate product velocity.",
+          "Doclink": "https://www.getbeamer.com/roadmap-and-feature-requests",
+          "Tryoutlink": "https://app.getbeamer.com/feedback"
+        },
+        {
+          "id": "3-2",
+          "title": "Ideas",
+          "description": "Get feedback and feature requests from users, allow them to vote on favorites, and start building what they want.",
+          "Doclink": "https://www.getbeamer.com/feedback",
+          "Tryoutlink": "https://app.getbeamer.com/feedback"
+        }
+      ]
+    }
+  ],
+  "userflow": [
+    {
+      "id": "1",
+      "title": "Flows",
+      "description": "Create engaging product tours, announce new features, and gather feedback via NPS and surveys to lead users to their first Aha moment.",
+      "imageValue": "FlowImage",
+      "Doclink": "https://docs.userflow.com/docs/guides/flow-builder-basics",
+      "Tryoutlink": "https://app.userflow.com/app/_/flows"
+    },
+    {
+      "id": "2",
+      "title": "Checklists",
+      "description": "Foster a sense of progress and fulfillment, encourage deeper engagement with your product, and outline clear next steps for users.",
+      "imageValue": "ChecklistImage",
+      "Doclink": "https://docs.userflow.com/docs/guides/checklists",
+      "Tryoutlink": "https://userflow.com/app/_/checklists"
+    },
+    {
+      "id": "3",
+      "title": "Launchers",
+      "description": "Use hotspots to highlight features, tooltips for help text, and buttons to trigger actions like starting a flow.",
+      "imageValue": "LanucherImage",
+      "Doclink": "https://docs.userflow.com/docs/guides/launchers",
+      "Tryoutlink": "https://userflow.com/app/_/launchers"
+    },
+    {
+      "id": "4",
+      "title": "Banners",
+      "description": "Announce new features within your app by placing banners either at the top or embedded within container elements.",
+      "imageValue": "BannerImage",
+      "Doclink": "https://docs.userflow.com/docs/guides/banners",
+      "Tryoutlink": "https://userflow.com/app/_/banners"
+    },
+    {
+      "id": "5",
+      "title": "Announcements",
+      "description": "Alert users with a red badge on the RC icon for unread announcements. Critical updates will pop out as a speech bubble from the launcher.",
+      "imageValue": "AnnouncementImage",
+      "Doclink": "https://docs.userflow.com/docs/guides/announcements",
+      "Tryoutlink": "https://userflow.com/app/_/announcements"
+    },
+    {
+      "id": "6",
+      "title": "Resource Centers",
+      "description": "A help icon in your app allows users to access help flows, search your knowledge base, and contact you via email, phone, or live chat.",
+      "imageValue": "ResourceCenterImage",
+      "Doclink": "https://docs.userflow.com/docs/guides/resource-center",
+      "Tryoutlink": "https://userflow.com/app/_/resource-centers"
+    },
+    {
+      "id": "7",
+      "title": "Event Trackers",
+      "description": "Monitor specific events in your app with no-code event tracking. Personalize onboarding content or stream events to analytics providers for insights.",
+      "imageValue": "EventTrackerImage",
+      "Doclink": "https://docs.userflow.com/docs/guides/trackers",
+      "Tryoutlink": "https://userflow.com/app/_/trackers"
+    },
+    {
+      "id": "8",
+      "title": "AI Assistant",
+      "description": "Users can interact with an AI Assistant directly within the app, receiving instant replies powered by OpenAI’s GPT-4, based on your knowledge base and website.",
+      "imageValue": "AIAssistantImage",
+      "Doclink": "https://docs.userflow.com/docs/guides/ai-assistant",
+      "Tryoutlink": "https://userflow.com/app/_/assistants"
+    }
+  ]
+}

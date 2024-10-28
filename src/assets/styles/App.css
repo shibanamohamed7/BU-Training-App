@@ -1,0 +1,44 @@
+form {
+  margin: 20px;
+}
+
+input,
+textarea,
+select {
+  margin: 10px;
+  padding: 5px;
+}
+
+.task {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.completed {
+  background-color: #e0ffe0;
+  text-decoration: line-through;
+}
+
+.low {
+  background-color: #e0f7fa;
+}
+
+.medium {
+  background-color: #ffecb3;
+}
+
+.high {
+  background-color: #ffccbc;
+}
+
+button {
+  margin: 5px;
+  padding: 5px 10px;
+}
+
+.cl-avatarBox {
+  width: 2.75rem;
+  height: 2.75rem;
+}
